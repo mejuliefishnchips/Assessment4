@@ -1,6 +1,6 @@
 ﻿namespace MelindaFischerAssessment4
 {
-    partial class Palindromes
+    partial class frmPalindromes
     {
         /// <summary>
         /// Required designer variable.

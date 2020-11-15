@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace MelindaFischerAssessment4
 {
-    public partial class Palindromes : Form
+    public partial class frmMain : Form
     {
-        public Palindromes()
+        public frmMain()
         {
             InitializeComponent();
+        }
+
+        private void palindromesTask1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmPalindromes myPalindromes = new frmPalindromes();
+            myPalindromes.ShowDialog();
         }
     }
 }
