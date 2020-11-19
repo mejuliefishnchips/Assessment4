@@ -1,0 +1,13 @@
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\bin\Debug\MelindaFischerAssessment4.exe.config
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\bin\Debug\MelindaFischerAssessment4.exe
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\bin\Debug\MelindaFischerAssessment4.pdb
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.csprojAssemblyReference.cache
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.frmMain.resources
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.Properties.Resources.resources
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.csproj.GenerateResource.cache
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.csproj.CoreCompileInputs.cache
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.exe
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.pdb
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.frmPalindromes.resources
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.frmBinaryTree.resources
+C:\Users\MelindaFischer\source\repos\MelindaFischerAssessment4\obj\Debug\MelindaFischerAssessment4.frmHashing.resources

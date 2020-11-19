@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,6 +49,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinaryTree.cs" />
+    <Compile Include="frmBinaryTree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBinaryTree.Designer.cs">
+      <DependentUpon>frmBinaryTree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHashing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHashing.Designer.cs">
+      <DependentUpon>frmHashing.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,10 +74,20 @@
     <Compile Include="frmPalindromes.Designer.cs">
       <DependentUpon>frmPalindromes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBinaryTree.resx">
+      <DependentUpon>frmBinaryTree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHashing.resx">
+      <DependentUpon>frmHashing.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPalindromes.resx">
+      <DependentUpon>frmPalindromes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
